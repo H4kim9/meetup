@@ -9,7 +9,6 @@ import Pricing from './pages/Pricing'
 import MeetingRoom from './pages/MeetingRoom'
 
 function App() {
-
   return (
     <>
       <Toaster />
